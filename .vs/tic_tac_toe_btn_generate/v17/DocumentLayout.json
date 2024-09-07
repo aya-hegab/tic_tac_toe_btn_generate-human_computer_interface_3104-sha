@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_btn_generate-human_computer_interface_3104-sha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C01D191F-17A0-461A-9E99-2C9477077F10}|tic_tac_toe_btn_generate\\tic_tac_toe_btn_generate.csproj|d:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_btn_generate-human_computer_interface_3104-sha\\tic_tac_toe_btn_generate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01D191F-17A0-461A-9E99-2C9477077F10}|tic_tac_toe_btn_generate\\tic_tac_toe_btn_generate.csproj|solutionrelative:tic_tac_toe_btn_generate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01D191F-17A0-461A-9E99-2C9477077F10}|tic_tac_toe_btn_generate\\tic_tac_toe_btn_generate.csproj|d:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_btn_generate-human_computer_interface_3104-sha\\tic_tac_toe_btn_generate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C01D191F-17A0-461A-9E99-2C9477077F10}|tic_tac_toe_btn_generate\\tic_tac_toe_btn_generate.csproj|solutionrelative:tic_tac_toe_btn_generate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_btn_generate-human_computer_interface_3104-sha\\tic_tac_toe_btn_generate\\Form1.cs",
+              "RelativeDocumentMoniker": "tic_tac_toe_btn_generate\\Form1.cs",
+              "ToolTip": "D:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_btn_generate-human_computer_interface_3104-sha\\tic_tac_toe_btn_generate\\Form1.cs",
+              "RelativeToolTip": "tic_tac_toe_btn_generate\\Form1.cs",
+              "ViewState": "AgIAAEAAAACAMzMzM7MpwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:11:45.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_btn_generate-human_computer_interface_3104-sha\\tic_tac_toe_btn_generate\\Form1.cs",
+              "RelativeDocumentMoniker": "tic_tac_toe_btn_generate\\Form1.cs",
+              "ToolTip": "D:\\tmp\\sha_3104_human_computer_interfaces\\tic_tac_toe\\tic_tac_toe_btn_generate-human_computer_interface_3104-sha\\tic_tac_toe_btn_generate\\Form1.cs [Design]",
+              "RelativeToolTip": "tic_tac_toe_btn_generate\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:11:39.77Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
